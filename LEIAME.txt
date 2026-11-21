@@ -1,0 +1,12 @@
+Banco de cálculo — Matemática do 1.º ao 4.º ano
+================================================
+
+Como abrir: faça duplo clique em index.html (abre no navegador, não precisa de internet).
+
+- 1660 exercícios em 62 temas, organizados pelas Aprendizagens Essenciais de Matemática (DGE, março de 2026).
+- Correção automática com duas tentativas por exercício.
+- Calculadora 🧮 no topo e botão "Confirmar na calculadora" depois de cada resposta (pode desligar em Para adultos > Definições).
+- Revisões em jogo, contas difíceis, caderneta de autocolantes e fichas em papel (A4).
+
+Nota: aberto a partir deste ficheiro, o progresso fica guardado só neste navegador, neste computador.
+Para levar o progresso para outro lado use Para adultos > Definições > Cópia de segurança.
